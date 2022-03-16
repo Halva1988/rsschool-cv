@@ -1,7 +1,7 @@
 ![Foto](Foto.png)
 # Aleksandr Khalaim
 
-***
+
 
 ## My Contacts:
 + __Address:__ Saint-Petersburg, Russian Federation
@@ -9,13 +9,13 @@
 + __Phone:__ +7-911-830-01-99
 + __GitHub:__ [Halva1988](https://github.com/Halva1988)
 + __Diskord:__ Aleksandr Khalaim (@Halva1988)
-***
+
 
 ## About me:
 I know how to work in a team,
 I am easily trained, I am focused
 on a positive result and on acquiring new skills.
-***
+
 
 ## Skills:
 + HTML
@@ -23,9 +23,10 @@ on a positive result and on acquiring new skills.
 + JavaScript (basic)
 + Python (Basic)
 + Git
-***
+
 
 ## Code examples:
+
 ```JavaScript
 function likes(names) {
   var i = 0;
