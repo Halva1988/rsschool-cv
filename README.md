@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Halva1988.github.io/rsschool-cv/
